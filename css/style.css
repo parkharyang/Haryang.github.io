@@ -18,5 +18,5 @@ header .category > li:hover > a { background-color: #96da47;}
 .submenu li {}
 .submenu li a{ color: #eee; display: block; height: 28px;
   font-size: 14px; line-height: 28px; }
-.submenu li a:hover { color :96da47}
+.submenu li a:hover { color :#96da47;}
 .submenu li.subtitle {color:#fff; font-size: 15px; margin-bottom: 10px; }
